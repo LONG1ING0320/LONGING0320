@@ -1,0 +1,269 @@
+html,body{
+	width: 18.75rem;
+	height: 100%;
+}
+html{
+	font-size: 20px;
+	background-color: #f4f4f4;
+}
+#top{
+	width: 18.75rem;
+	height: 2.2rem;
+	background-color: #f2f2f2;
+	line-height: 100%;
+}
+#top>i{
+	position: absolute;
+	top: 0.8rem;
+	left: 0.48rem;
+	font-size: 1.3rem;
+}
+.dd{
+	font-family: PingFang-SC-Medium;
+	font-size: 0.9rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.55rem;
+	letter-spacing: 0.01rem;
+	color: #494d55;
+	padding-left: 7.65rem;
+	padding-top: 0.68rem;
+}
+.gb{
+	position: absolute;
+	left: 16.68rem;
+	top: 0.75rem;
+	width: 1.4rem;
+	height: 0.7rem;
+	font-family: PingFang-SC-Medium;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.55rem;
+	letter-spacing: 0.01rem;
+}
+.gb a{
+	color: #494d55;
+}
+.ty{
+	width: 18.75rem;
+	height: 9.5rem;
+}
+#main{
+	width: 18.75rem;
+}
+#main>p1{
+	width: 18.75rem;
+	height: 2.22rem;
+	position: absolute;
+	top: 11.65rem;
+	left: 0;
+	background-color: #ffffff;
+	border-bottom: 0.05rem solid #e6e6e6;
+}
+.qbdd{
+	font-family: PingFang-SC-Regular;
+	font-size: 0.75rem;
+	color: #333333;
+	position: absolute;
+	top: 0.75rem;
+	left: 0.73rem;
+}
+.ck{
+	font-family: PingFang-SC-Regular;
+	font-size: 0.6rem;
+	color: #999999;
+	position: absolute;
+	top: 0.83rem;
+	left: 13.4rem;
+}
+.yjt{
+	position: absolute;
+	top: 0.8rem;
+	left: 17.4rem;
+}
+#main>p2{
+	width: 18.75rem;
+	height: 3.95rem;
+	background-color: #ffffff;
+	position: absolute;
+	top: 13.9rem;
+	left: 0rem;
+}
+.dfk{
+	position: absolute;
+	top: 0.88rem;
+	left: 1.5rem;
+	font-size: 1rem;
+	color: #999999;
+}
+.dsh{
+	position: absolute;
+	top: 0.8rem;
+	left: 5.95rem;
+	font-size: 1.2rem;
+	color: #999999;
+}
+.ywc{
+	position: absolute;
+	top: 0.8rem;
+	left: 10.75rem;
+	font-size: 1.1rem;
+	color: #999999;
+}
+.tk{
+	position: absolute;
+	top: 0.8rem;
+	left: 15.2rem;
+	font-size: 1.15rem;
+	color: #999999;
+}
+.sz{
+	position: absolute;
+	top: 0.5rem;
+	left: 2rem;
+	color: #b91b34;
+}
+.dfk1{
+	font-size: 0.65rem;
+	font-family: PingFang-SC-Medium;
+	color: #8c8c8c;
+	position: absolute;
+	top: 2.3rem;
+	left: 1rem;
+}
+.dsh2{
+	font-size: 0.65rem;
+	font-family: PingFang-SC-Medium;
+	color: #8c8c8c;
+	position: absolute;
+	top: 2.3rem;
+	left: 5.55rem;
+}
+.ywc1{
+	font-size: 0.65rem;
+	font-family: PingFang-SC-Medium;
+	color: #8c8c8c;
+	position: absolute;
+	top: 2.3rem;
+	left: 10.35rem;
+}
+.tk1{
+	font-size: 0.65rem;
+	font-family: PingFang-SC-Medium;
+	color: #8c8c8c;
+	position: absolute;
+	top: 2.3rem;
+	left: 14.4rem;
+}
+#main>p3{
+	width: 18.73rem;
+	height: 2.5rem;
+	background-color: #ffffff;
+	position: absolute;
+	top: 18.35rem;
+	left: 0rem;
+	border-bottom: 0.05rem solid #e6e6e6;
+}
+.shdzgl{
+	font-family: PingFang-SC-Regular;
+	font-size: 0.7rem;
+	color: #666666;
+	position: absolute;
+	top: 0.75rem;
+	left: 1.23rem;
+}
+.yjt1{
+	position: absolute;
+	top: 0.8rem;
+	left: 17.4rem;
+}
+#main>p5{
+	width: 18.73rem;
+	height: 2.5rem;
+	background-color: #ffffff;
+	position: absolute;
+	top: 20.9rem;
+	left: 0rem;
+	border-bottom: 0.05rem solid #e6e6e6;
+}
+.wdsc{
+	font-family: PingFang-SC-Regular;
+	font-size: 0.7rem;
+	color: #666666;
+	position: absolute;
+	top: 0.75rem;
+	left: 1.23rem;
+}
+.yjt1{
+	position: absolute;
+	top: 0.8rem;
+	left: 17.4rem;
+}
+#main>p6{
+	width: 18.73rem;
+	height: 2.5rem;
+	background-color: #ffffff;
+	position: absolute;
+	top: 23.45rem;
+	left: 0rem;
+	border-bottom: 0.05rem solid #e6e6e6;
+}
+.lxkf{
+	font-family: PingFang-SC-Regular;
+	font-size: 0.7rem;
+	color: #666666;
+	position: absolute;
+	top: 0.75rem;
+	left: 1.23rem;
+}
+.yjt1{
+	position: absolute;
+	top: 0.8rem;
+	left: 17.4rem;
+}
+
+#footer1{
+	width: 19rem;
+	border-top: 0.5px solid #dfdada;
+	position: absolute;
+	top: 27.7rem;
+	
+}
+#footer{
+	float: left;
+	width:25%;
+	padding-top:1.65rem;
+	text-align: center;
+
+}
+.i2{
+	position: absolute;
+	left: 1.9rem;
+	top: 0.35rem;
+	font-size: 1rem;
+}
+.i3{
+	position: absolute;
+	left: 6.7rem;
+	top: 0.35rem;
+	font-size: 1rem;
+}
+.i4{
+	position: absolute;
+	left: 11.25rem;
+	top: 0.35rem;
+	font-size: 1rem;
+}
+.i5{
+	position: absolute;
+	left: 16.25rem;
+	top: 0.35rem;
+	font-size: 1rem;
+}
+#footer>a{
+	color:#7c8188;
+	text-decoration: none;
+}
+#footer>a:focus{
+	color: #b91b34;
+}

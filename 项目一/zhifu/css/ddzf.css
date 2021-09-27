@@ -1,0 +1,139 @@
+html,body{
+	width: 100%;
+	height: 100%;
+}
+html{
+	font-size: 20px;
+	background-color: #f4f4f4
+}
+#top{
+	width: 18.75rem;
+	height: 2.2rem;
+	background-color: #f2f2f2;
+	line-height: 100%;
+}
+#top>i{
+	position: absolute;
+	top: 0.8rem;
+	left: 0.48rem;
+	font-size: 1.3rem;
+}
+.dd{
+	font-family: PingFang-SC-Medium;
+	font-size: 0.9rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.55rem;
+	letter-spacing: 0.01rem;
+	color: #494d55;
+	padding-left: 7.65rem;
+	padding-top: 0.68rem;
+}
+.gb{
+	position: absolute;
+	left: 16.68rem;
+	top: 0.75rem;
+	width: 1.4rem;
+	height: 0.7rem;
+	font-family: PingFang-SC-Medium;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.55rem;
+	letter-spacing: 0.01rem;
+}
+.gb a{
+	color: #494d55;
+}
+#je{
+	width: 18.75rem;
+	height: 4.75rem;
+	position: relative;
+	background-color: #ffffff
+}
+#je>p{
+	position: absolute;
+	top: 1.53rem;
+	left: 0.78rem;
+	height: 0.6rem;
+	font-family: PingFang-SC-Medium;
+	font-size: 0.6rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0rem;
+	color: #333333;
+}
+#je>p1{
+	position: absolute;
+	top: 2.58rem;
+	left: 0.83rem;
+	font-family: PingFang-SC-Medium;
+	font-size: 0.75rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0rem;
+	color: #333333;
+}
+#je>p2{
+	position: absolute;
+	top: 2.58rem;
+	left: 4.22rem;
+	width: 3rem;
+	height: 0.57rem;
+	font-family: PingFang-SC-Medium;
+	font-size: 0.75rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0rem;
+	color: #b91b34;
+}
+#zfb,#wxzf{
+	width: 18.75rem;
+	height: 2.5rem;
+	background-color: #ffffff;
+	margin-top: 0.5rem;
+	position: relative;
+}
+.zfb{
+		width: 1.5rem;
+		height: 1.5rem;
+		color: #1dabec;
+		position: absolute;
+		top: 0.48rem;
+		left: 0.75rem;
+		font-size: 1.5rem;
+}
+#zfb>span>a{
+	width: 100%;
+	height: 100%;
+	font-size: 0.75rem;
+	font-family: PingFang-SC-Medium;
+	font-size: 0.7rem;
+	letter-spacing: 0rem;
+	position: absolute;
+	top: 0.93rem;
+	left: 3rem;
+	color: #333333;
+	text-decoration: none;
+}
+.wx{
+	width: 1.5rem;
+	height: 1.5rem;
+	color: #1dc126;
+	position: absolute;
+	top: 0.48rem;
+	left: 0.75rem;
+	font-size: 1.5rem;
+}
+#wxzf>span>a{
+	width: 100%;
+	height: 100%;
+	font-size: 0.75rem;
+	font-family: PingFang-SC-Medium;
+	font-size: 0.7rem;
+	letter-spacing: 0rem;
+	position: absolute;
+	top: 0.93rem;
+	left: 3rem;
+	color: #333333;
+	text-decoration: none;
+}
