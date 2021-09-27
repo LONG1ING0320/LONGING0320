@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>北京名利祥食品有限公司</title>
+		<link rel="stylesheet" type="text/css" href="css/index.css"/>
+		<link rel="stylesheet" type="text/css" href="layui/css/layui.css"/>
+	</head>
+	<body>
+		<div class="conten">
+			<div class="sealse">
+			<div class="sealse_input">
+				<input type="text" placeholder="北京名利祥食品有限公司"/>
+			</div>
+			<div class="stach_img">
+				<img src="images/xinfeng.png"/>
+			</div>
+			</div>
+		 	<div class="layui-carousel" id="testl">
+				<div carousel-item >
+					<div>
+						<img src="./images/xxxx.jpg"/>
+					</div>
+					<div>
+						<img src="./images/xxxx.jpg"/>
+					</div>
+					<div>
+						<img src="./images/xxxx.jpg"/>
+					</div>
+					<div>
+						<img src="./images/xxxx.jpg"/>
+					</div>
+					
+				</div>
+				</div>
+				
+				<div class="shop">
+					<div class="shop-list">
+						<img src="images/zb.png" alt="" />
+						<div class="">
+							<strong>关于我们</strong>
+							
+						</div>
+					</div>
+					<div class="shop-list">
+						<img src="images/guzhi.png" alt="" />
+						<div class="">
+							<strong>张铂伟</strong>
+							
+						</div>
+					</div>
+					<div class="shop-list">
+						<img src="images/money.png" alt="" />
+						<div class="">
+							<strong>大BOOS</strong>
+							
+						</div>
+					</div>
+					<div class="shop-list">
+						<img src="images/baoxian.png" alt="" />
+						<div class="">
+							<strong>每日估值</strong>
+							
+						</div>
+					</div>
+				</div>
+				</div>
+				
+				<script type="text/javascript" src="layui/layui.js"></script>
+				<script type="text/javascript">
+					layui.use('carousel',function(){
+						var carousel = layui.carousel;
+						carousel.render({
+							elem:'#testl',
+							width:'100%',
+							arrow:'always',
+							height:'700px',
+							indicator:'none',
+						});
+					});
+				</script>
+	</body>
+</html>
